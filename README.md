@@ -52,22 +52,35 @@ It's a pleasure to connect! I'm a web developer with expertise in MERN, Next.js,
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 GitHub Stats:
+<h3 align="center">LEETCODE<h3>
+<div align="center">
+  <a href="https://leetcode.com/CapShijin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/CapShijin/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/CapShijin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+<!--   <a href="https://leetcode.com/CapShijin/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
+</div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YooShijin&show_icons=true&locale=en" alt="nandini80" />
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/CapShijin?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandini80&" alt="nandini80" />
-</p>
+### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandini80&show_icons=true&locale=en&layout=compact" alt="nandini80" />
+<p align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=YooShijin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=YooShijin&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooShijin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🌟 Thank You for Visiting!
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+<br/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+### 🌟 Thank You for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. I'm always excited to connect and work on innovative projects together! 😊
