@@ -62,8 +62,8 @@ It's a pleasure to connect! I'm a web developer with expertise in MERN, Next.js,
 
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/CapShijin?theme=dark&font=Nunito&ext=heatmap" />
-</p> --> -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p> -->
+<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> -->
 
 ### 📊 GitHub Stats:
 
