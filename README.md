@@ -77,6 +77,8 @@ It's a pleasure to connect! I'm a web developer with expertise in MERN, Next.js,
 
 [![An image of @yooshijin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yooshijin)](https://holopin.io/@yooshijin)
 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ### 🌟 Thank You for Visiting!
 
 Feel free to explore my repositories and reach out to me for collaborations or discussions. I'm always excited to connect and work on innovative projects together! 😊
